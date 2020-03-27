@@ -2,7 +2,6 @@
 #import module
 import crypt
 
-#Hack this into the hash calc
 while True:
 	print ("I am an encryption script.\nI encrypt a series of characters")
 	print ("and numbers in 5 algorithms!!!")

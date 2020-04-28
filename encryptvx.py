@@ -6,7 +6,6 @@ while True:
 	print ("I am an encryption script.\nI encrypt a series of characters")
 	print ("and numbers in 5 algorithms!!!")
 	print ("System Running...\n")
-	print ("opprssr wrote it....")
 	print ("                  x 0")
 	print ("                 ~~~~~\n")
 
